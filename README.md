@@ -1,5 +1,7 @@
 # vue-weather-app
 
+Weather app made with Vue3. I used OpenWeatherMap api to get weather information.
+
 ## Project setup
 ```
 npm install
